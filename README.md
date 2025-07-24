@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" alt="AI Everywhere LOGO" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" alt="AI Everywhere LOGO" width="800"/>
 </div>
 
 # 北京紫
