@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" alt="AI Everywhere LOGO" width="800"/>
+  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" alt="AI Everywhere LOGO" width="400"/>
 </div>
 
-# 北京紫
+# 北京紫洛兰科技有限公司
 洛兰科技有限公司简介
 
 **公司名称**：北京紫洛兰科技有限公司  
